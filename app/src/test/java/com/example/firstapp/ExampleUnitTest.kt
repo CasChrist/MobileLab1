@@ -1,4 +1,4 @@
-package com.example.linearlayout
+package com.example.firstapp
 
 import org.junit.Test
 

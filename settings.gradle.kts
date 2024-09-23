@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LinearLayout"
+rootProject.name = "FirstApp"
 include(":app")
- 

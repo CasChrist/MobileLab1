@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.linearlayout"
+    namespace = "com.example.firstapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.linearlayout"
+        applicationId = "com.example.firstapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

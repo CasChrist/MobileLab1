@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">LinearLayout</string>
-    <string name="english_poem">If bears were bees,\nThey’d have no fear,\nAnd never even think about\nBuilding their homes so high up here!</string>
+    <string name="app_name">FirstApp</string>
 </resources>

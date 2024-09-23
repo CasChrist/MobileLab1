@@ -1,4 +1,4 @@
-package com.example.linearlayout
+package com.example.firstapp
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
